@@ -10,7 +10,7 @@
     "SESSION_ID": {
       "description": "Put the session-id here.",
       "required": true,
-      "value": ""
+      "value": "INFINITY-MD;;;=>TIUD0BgQ#PdbuFktOVVSWKS33q809IqEw6vEqtOJMVj3y2ue_6XA"
     },  
     
     "STICKER_NAME": {
